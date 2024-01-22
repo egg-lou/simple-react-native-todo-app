@@ -2,6 +2,8 @@
 
 # dependencies
 node_modules/
+.git
+.yarn
 
 # Expo
 .expo/
@@ -33,3 +35,5 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+yarn.lock
